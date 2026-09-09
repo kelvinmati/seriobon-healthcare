@@ -8,3 +8,6 @@ export default [
 route("news", "components/News.tsx"), // News & Insights page
 route("news/:postId", "components/NewsDetail.tsx"), // News detail page
 ] satisfies RouteConfig;
+
+
+
